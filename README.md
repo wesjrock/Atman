@@ -21,10 +21,10 @@ The jewels are the yellow `*` and the enemies are the red `*` which move vertica
 This game looks easy but it will take you some practice before you beat it.
 
 CONTROLS:
-	* W: up
-	* S: down
-	* A: left
-	* D: right
+* W: up
+* S: down
+* A: left
+* D: right
 
 HOW TO ASSEMBLE AND RUN
 --------------------------------------------------
