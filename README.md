@@ -15,7 +15,7 @@ I did some sketches on my notebook and started programming, it was a lot of fun.
 
 HOW TO PLAY
 --------------------------------------------------
-You have to collect all the jewelries in the room without touching any of the enemies and go inside the house.
+You have to collect all the jewels in the room without touching any of the enemies and go inside the house.
 Some jewels cannot be collected without entering warps which are invisible inside the room, so you have to discover where are these warps.
 The jewels are the yellow `*` and the enemies are the red `*` which move vertically and horizontally so be careful.
 This game looks easy but it will take you some practice before you beat it.
