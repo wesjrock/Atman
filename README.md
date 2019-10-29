@@ -54,13 +54,11 @@ Installing the Simulator:
 
 Assembling and Running the Game:
 ```bash
-	1. ./assembler atman-speedx.asm atman-speedx.mif
+	1. ./assembler atman-2019.asm atman-2019.mif
 	This is going to generate a .mif file
 
-	2. ./sim atman-speedx.mif charmap.mif
+	2. ./sim atman-2019.mif charmap.mif
 	Note: The charmap.mif file is included in this repository, you need to extract it.
 
 	3. After opening the simulator window, press HOME key to start.
-
-	PS. In case the game runs too fast, I have included another `atman-speedx.asm` file with a speed correction, so please try them both.
 ```
